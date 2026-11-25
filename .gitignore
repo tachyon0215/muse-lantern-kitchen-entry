@@ -1,3 +1,4 @@
 node_modules/
 out/
 out2/
+# Local test output from main.ts is never part of the entry.
